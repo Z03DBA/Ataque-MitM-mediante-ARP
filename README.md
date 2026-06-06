@@ -1,4 +1,6 @@
-Aquí tienes el archivo `README.md` perfectamente adaptado para tu laboratorio de **ARP Spoofing / Man-in-the-Middle (MitM)**. Se ha mantenido la coherencia de la topología GNS3, la consistencia de tu perfil estudiantil (matrícula 2025-0839) y el diseño visual estructurado para repositorios profesionales de GitHub.
+
+
+# 🛡️Security Audit: ARP Spoofing & Man-in-the-Middle (MitM)
 
 ---
 <p align="center">
@@ -7,10 +9,6 @@ Aquí tienes el archivo `README.md` perfectamente adaptado para tu laboratorio d
   <img src="https://img.shields.io/badge/Library-Scapy-red?style=for-the-badge&logo=scapy&logoColor=white" alt="Scapy">
   <img src="https://img.shields.io/badge/Status-Mitigated-success?style=for-the-badge" alt="Status Mitigated">
 </p>
-
-# 🛡️Security Audit: ARP Spoofing & Man-in-the-Middle (MitM)
-
----
 
 ## 📝 Información del Estudiante
 
